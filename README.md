@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> <br> I'm Adent Fallah Amorisyah</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+<h3 align="center">A passionate full stack developer from Indonesia<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denfasyah&label=Profile%20views&color=0e75b6&style=flat" alt="denfasyah" /> </p>
 
