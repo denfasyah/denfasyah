@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Adent Fallah Amorisyah</h1>
 
-<div>
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;&center=true&width=380&height=45">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   </div>
