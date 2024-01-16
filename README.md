@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denfasyah&label=Profile%20views&color=0e75b6&style=flat" alt="denfasyah" /> </p>
 
-<h2> About Me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 80px> </h2>
+<h2> About Me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=100px> </h2>
 
 
 
