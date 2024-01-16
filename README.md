@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Adent Fallah Amorisyah</h1>
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;&center=true&width=380&height=45">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;&center=true&width=380&height=45">
 <h3 align="center">Full Stack Developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denfasyah&label=Profile%20views&color=0e75b6&style=flat" alt="denfasyah" /> </p>
