@@ -22,15 +22,11 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,nodejs,react,express,mongodb,mysql,nextjs,laravel,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,nodejs,react,express,mongodb,mysql,nextjs,laravel,git,&perline=7" />
   </a>
 </p>
 
- 
-
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
-
 
 <p align="left">
 <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
