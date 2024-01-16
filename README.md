@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;&center=true&width=380&height=45">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -->
   </div>
 <!-- <h3 align="center">Full Stack Developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3> -->
 
